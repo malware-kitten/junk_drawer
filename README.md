@@ -1,2 +1,2 @@
 # junk_drawer
-Various Scripts
+A collection of various scripts not intended for production 
